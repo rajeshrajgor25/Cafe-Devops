@@ -1,4 +1,4 @@
-# ☕ Brevita Café – AI Powered DevOps Project
+# ☕ Brevita Café – DevOps Project
 
 🔗 **Live Project:** https://brevita-cafe.vercel.app/
 
